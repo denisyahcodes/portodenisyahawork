@@ -1,0 +1,26 @@
+{
+  "name": "denisyahwork",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "framer-motion": "^11.18.2",
+    "lucide-react": "^0.344.0",
+    "next": "15.0.0",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "tailwindcss": "^3.4.10"
+  },
+  "devDependencies": {
+    "@types/node": "^24.9.1",
+    "@types/react": "19.2.2",
+    "autoprefixer": "^10.4.17",
+    "postcss": "^8.4.31",
+    "typescript": "^5.6.3"
+  }
+}
